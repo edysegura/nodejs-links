@@ -1,4 +1,4 @@
-# NodeJS Links
+# Node.js Links
 
 My personal links for NodeJS
 
