@@ -9,6 +9,7 @@ My personal links for NodeJS
 ## Courses
 
 - [Node.js tutorials for beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
+- [Node.js Basics](https://www.youtube.com/watch?v=65a5QQ3ZR2g&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR)
 
 ## Useful Links
 
